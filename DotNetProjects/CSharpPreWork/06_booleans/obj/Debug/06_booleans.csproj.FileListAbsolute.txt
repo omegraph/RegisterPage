@@ -1,0 +1,2 @@
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\06_booleans\obj\Debug\06_booleans.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\06_booleans\obj\Debug\06_booleans.csproj.CoreCompileInputs.cache

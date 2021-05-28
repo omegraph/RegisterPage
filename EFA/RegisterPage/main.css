@@ -1,0 +1,80 @@
+body {
+    background: rgb(64, 147, 243);
+}
+
+h3 {
+    margin-bottom: 0px;
+    margin-left: 10px;
+}
+
+a {
+    color: white;
+    background-color: royalblue;
+    margin: 10px;
+    padding: 10px;
+    padding-top: 5px;
+    text-decoration:none;
+}
+
+.button {
+    color: white;
+    background-color: royalblue;
+    width: 180px;
+    height: 30px;
+    line-height: 20px;
+    padding-bottom: 10px;
+    vertical-align: middle;
+    font-family: "Lucida Grande", Geneva, Verdana, Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    font-weight: bold;
+    border: 1px solid transparent;
+}
+
+.navbar{
+    background: white;
+    height: 40px;
+    width: 100%;
+    margin-bottom: 90px;
+    padding-top: 1px; 
+}
+
+.navbar ul li{
+    list-style: none;
+    display: inline-block;
+    color: white;
+}
+
+.navbar ul li{
+    display: inline-block;
+    line-height: 3px;
+    margin: 0 5px;
+}
+
+.navbar ul li{
+    float: right;
+    margin-right: 20px;
+}
+
+input {
+    margin: 8px;
+}
+
+.container{
+    width: 90%;
+    max-width: 200px;
+    margin: 0 auto;
+    padding: 20px;
+    box-shadow: 0px 0 px 20 px #00000010;
+    background-color: white;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    padding-top: 5px;
+}
+
+.form-logo{
+  margin-left: 15px;
+  margin-right: 15px;   
+}
+
+
+

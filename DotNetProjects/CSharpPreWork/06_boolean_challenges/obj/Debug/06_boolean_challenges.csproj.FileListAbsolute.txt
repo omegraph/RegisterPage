@@ -1,0 +1,2 @@
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\06_boolean_challenges\obj\Debug\06_boolean_challenges.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\06_boolean_challenges\obj\Debug\06_boolean_challenges.csproj.CoreCompileInputs.cache

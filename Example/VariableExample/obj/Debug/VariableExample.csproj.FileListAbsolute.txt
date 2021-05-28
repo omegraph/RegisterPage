@@ -1,0 +1,7 @@
+C:\ElevenFiftyProjects\Example\VariableExample\bin\Debug\VariableExample.exe.config
+C:\ElevenFiftyProjects\Example\VariableExample\bin\Debug\VariableExample.exe
+C:\ElevenFiftyProjects\Example\VariableExample\bin\Debug\VariableExample.pdb
+C:\ElevenFiftyProjects\Example\VariableExample\obj\Debug\VariableExample.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\Example\VariableExample\obj\Debug\VariableExample.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\Example\VariableExample\obj\Debug\VariableExample.exe
+C:\ElevenFiftyProjects\Example\VariableExample\obj\Debug\VariableExample.pdb

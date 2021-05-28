@@ -1,0 +1,7 @@
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\08_numbers\bin\Debug\08_numbers.exe.config
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\08_numbers\bin\Debug\08_numbers.exe
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\08_numbers\bin\Debug\08_numbers.pdb
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\08_numbers\obj\Debug\08_numbers.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\08_numbers\obj\Debug\08_numbers.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\08_numbers\obj\Debug\08_numbers.exe
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\08_numbers\obj\Debug\08_numbers.pdb

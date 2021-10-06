@@ -1,0 +1,12 @@
+C:\ElevenFiftyProjects\DeveloperAppUI\DeveloperAppUI\obj\Debug\DeveloperAppUI.csproj.AssemblyReference.cache
+C:\ElevenFiftyProjects\DeveloperAppUI\DeveloperAppUI\obj\Debug\DeveloperAppUI.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\DeveloperAppUI\DeveloperAppUI\bin\Debug\DeveloperAppUI.exe.config
+C:\ElevenFiftyProjects\DeveloperAppUI\DeveloperAppUI\bin\Debug\DeveloperAppUI.exe
+C:\ElevenFiftyProjects\DeveloperAppUI\DeveloperAppUI\bin\Debug\DeveloperAppUI.pdb
+C:\ElevenFiftyProjects\DeveloperAppUI\DeveloperAppUI\bin\Debug\DeveloperApp.POCOs.dll
+C:\ElevenFiftyProjects\DeveloperAppUI\DeveloperAppUI\bin\Debug\DeveloperApp.Repository.dll
+C:\ElevenFiftyProjects\DeveloperAppUI\DeveloperAppUI\bin\Debug\DeveloperApp.POCOs.pdb
+C:\ElevenFiftyProjects\DeveloperAppUI\DeveloperAppUI\bin\Debug\DeveloperApp.Repository.pdb
+C:\ElevenFiftyProjects\DeveloperAppUI\DeveloperAppUI\obj\Debug\DeveloperAppUI.csproj.CopyComplete
+C:\ElevenFiftyProjects\DeveloperAppUI\DeveloperAppUI\obj\Debug\DeveloperAppUI.exe
+C:\ElevenFiftyProjects\DeveloperAppUI\DeveloperAppUI\obj\Debug\DeveloperAppUI.pdb

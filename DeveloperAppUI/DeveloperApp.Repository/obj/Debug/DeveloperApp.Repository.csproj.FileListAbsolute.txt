@@ -1,0 +1,9 @@
+C:\ElevenFiftyProjects\DeveloperAppUI\DeveloperApp.Repository\bin\Debug\DeveloperApp.Repository.dll
+C:\ElevenFiftyProjects\DeveloperAppUI\DeveloperApp.Repository\bin\Debug\DeveloperApp.Repository.pdb
+C:\ElevenFiftyProjects\DeveloperAppUI\DeveloperApp.Repository\bin\Debug\DeveloperApp.POCOs.dll
+C:\ElevenFiftyProjects\DeveloperAppUI\DeveloperApp.Repository\bin\Debug\DeveloperApp.POCOs.pdb
+C:\ElevenFiftyProjects\DeveloperAppUI\DeveloperApp.Repository\obj\Debug\DeveloperApp.Repository.csproj.AssemblyReference.cache
+C:\ElevenFiftyProjects\DeveloperAppUI\DeveloperApp.Repository\obj\Debug\DeveloperApp.Repository.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\DeveloperAppUI\DeveloperApp.Repository\obj\Debug\DeveloperApp.Repository.csproj.CopyComplete
+C:\ElevenFiftyProjects\DeveloperAppUI\DeveloperApp.Repository\obj\Debug\DeveloperApp.Repository.dll
+C:\ElevenFiftyProjects\DeveloperAppUI\DeveloperApp.Repository\obj\Debug\DeveloperApp.Repository.pdb

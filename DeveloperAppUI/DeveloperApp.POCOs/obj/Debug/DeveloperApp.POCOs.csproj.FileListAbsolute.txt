@@ -1,0 +1,6 @@
+C:\ElevenFiftyProjects\DeveloperAppUI\DeveloperApp.POCOs\bin\Debug\DeveloperApp.POCOs.dll
+C:\ElevenFiftyProjects\DeveloperAppUI\DeveloperApp.POCOs\bin\Debug\DeveloperApp.POCOs.pdb
+C:\ElevenFiftyProjects\DeveloperAppUI\DeveloperApp.POCOs\obj\Debug\DeveloperApp.POCOs.csproj.AssemblyReference.cache
+C:\ElevenFiftyProjects\DeveloperAppUI\DeveloperApp.POCOs\obj\Debug\DeveloperApp.POCOs.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\DeveloperAppUI\DeveloperApp.POCOs\obj\Debug\DeveloperApp.POCOs.dll
+C:\ElevenFiftyProjects\DeveloperAppUI\DeveloperApp.POCOs\obj\Debug\DeveloperApp.POCOs.pdb

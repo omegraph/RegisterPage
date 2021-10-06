@@ -1,0 +1,7 @@
+C:\ElevenFiftyProjects\EFA\AddressBook\AddressBookChallenge\bin\Debug\AddressBookChallenge.exe.config
+C:\ElevenFiftyProjects\EFA\AddressBook\AddressBookChallenge\bin\Debug\AddressBookChallenge.exe
+C:\ElevenFiftyProjects\EFA\AddressBook\AddressBookChallenge\bin\Debug\AddressBookChallenge.pdb
+C:\ElevenFiftyProjects\EFA\AddressBook\AddressBookChallenge\obj\Debug\AddressBookChallenge.csproj.AssemblyReference.cache
+C:\ElevenFiftyProjects\EFA\AddressBook\AddressBookChallenge\obj\Debug\AddressBookChallenge.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\EFA\AddressBook\AddressBookChallenge\obj\Debug\AddressBookChallenge.exe
+C:\ElevenFiftyProjects\EFA\AddressBook\AddressBookChallenge\obj\Debug\AddressBookChallenge.pdb

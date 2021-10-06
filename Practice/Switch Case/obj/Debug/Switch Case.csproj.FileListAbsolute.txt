@@ -1,0 +1,7 @@
+C:\ElevenFiftyProjects\Practice\Switch Case\bin\Debug\Switch Case.exe.config
+C:\ElevenFiftyProjects\Practice\Switch Case\bin\Debug\Switch Case.exe
+C:\ElevenFiftyProjects\Practice\Switch Case\bin\Debug\Switch Case.pdb
+C:\ElevenFiftyProjects\Practice\Switch Case\obj\Debug\Switch Case.csproj.AssemblyReference.cache
+C:\ElevenFiftyProjects\Practice\Switch Case\obj\Debug\Switch Case.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\Practice\Switch Case\obj\Debug\Switch Case.exe
+C:\ElevenFiftyProjects\Practice\Switch Case\obj\Debug\Switch Case.pdb

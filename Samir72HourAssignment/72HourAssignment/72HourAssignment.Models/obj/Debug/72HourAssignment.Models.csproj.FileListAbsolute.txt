@@ -1,0 +1,16 @@
+C:\ElevenFiftyProjects\Samir72HourAssignment\72HourAssignment\72HourAssignment.Models\bin\Debug\72HourAssignment.Models.dll
+C:\ElevenFiftyProjects\Samir72HourAssignment\72HourAssignment\72HourAssignment.Models\bin\Debug\72HourAssignment.Models.pdb
+C:\ElevenFiftyProjects\Samir72HourAssignment\72HourAssignment\72HourAssignment.Models\obj\Debug\72HourAssignment.Models.csproj.AssemblyReference.cache
+C:\ElevenFiftyProjects\Samir72HourAssignment\72HourAssignment\72HourAssignment.Models\obj\Debug\72HourAssignment.Models.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\Samir72HourAssignment\72HourAssignment\72HourAssignment.Models\obj\Debug\72HourAssignment.Models.dll
+C:\ElevenFiftyProjects\Samir72HourAssignment\72HourAssignment\72HourAssignment.Models\obj\Debug\72HourAssignment.Models.pdb
+C:\ElevenFiftyProjects\Samir72HourAssignment\72HourAssignment\72HourAssignment.Models\bin\Debug\72HourAssignment.Models.dll.config
+C:\ElevenFiftyProjects\Samir72HourAssignment\72HourAssignment\72HourAssignment.Models\bin\Debug\EntityFramework.dll
+C:\ElevenFiftyProjects\Samir72HourAssignment\72HourAssignment\72HourAssignment.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\ElevenFiftyProjects\Samir72HourAssignment\72HourAssignment\72HourAssignment.Models\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\ElevenFiftyProjects\Samir72HourAssignment\72HourAssignment\72HourAssignment.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\ElevenFiftyProjects\Samir72HourAssignment\72HourAssignment\72HourAssignment.Models\bin\Debug\EntityFramework.xml
+C:\ElevenFiftyProjects\Samir72HourAssignment\72HourAssignment\72HourAssignment.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\ElevenFiftyProjects\Samir72HourAssignment\72HourAssignment\72HourAssignment.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\ElevenFiftyProjects\Samir72HourAssignment\72HourAssignment\72HourAssignment.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\ElevenFiftyProjects\Samir72HourAssignment\72HourAssignment\72HourAssignment.Models\obj\Debug\72HourAssignment.Models.csproj.CopyComplete

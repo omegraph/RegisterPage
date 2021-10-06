@@ -1,0 +1,14 @@
+C:\ElevenFiftyProjects\MorningChalange\StringLoop1\String1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\ElevenFiftyProjects\MorningChalange\StringLoop1\String1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\ElevenFiftyProjects\MorningChalange\StringLoop1\String1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\ElevenFiftyProjects\MorningChalange\StringLoop1\String1\bin\Debug\String1.dll
+C:\ElevenFiftyProjects\MorningChalange\StringLoop1\String1\bin\Debug\String1.pdb
+C:\ElevenFiftyProjects\MorningChalange\StringLoop1\String1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\ElevenFiftyProjects\MorningChalange\StringLoop1\String1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\ElevenFiftyProjects\MorningChalange\StringLoop1\String1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\ElevenFiftyProjects\MorningChalange\StringLoop1\String1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\ElevenFiftyProjects\MorningChalange\StringLoop1\String1\obj\Debug\String1.csproj.AssemblyReference.cache
+C:\ElevenFiftyProjects\MorningChalange\StringLoop1\String1\obj\Debug\String1.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\MorningChalange\StringLoop1\String1\obj\Debug\String1.csproj.CopyComplete
+C:\ElevenFiftyProjects\MorningChalange\StringLoop1\String1\obj\Debug\String1.dll
+C:\ElevenFiftyProjects\MorningChalange\StringLoop1\String1\obj\Debug\String1.pdb

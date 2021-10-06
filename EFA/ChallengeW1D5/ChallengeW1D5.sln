@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChallengeW1D5", "ChallengeW1D5\ChallengeW1D5.csproj", "{2B188584-37DB-47F7-8C0F-24303C6509CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChallengeW1D5.Library", "ChallengeW1D5.Library\ChallengeW1D5.Library.csproj", "{CF24F960-5965-4EC0-A686-62F054DA7E3E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B188584-37DB-47F7-8C0F-24303C6509CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B188584-37DB-47F7-8C0F-24303C6509CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B188584-37DB-47F7-8C0F-24303C6509CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B188584-37DB-47F7-8C0F-24303C6509CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF24F960-5965-4EC0-A686-62F054DA7E3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF24F960-5965-4EC0-A686-62F054DA7E3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF24F960-5965-4EC0-A686-62F054DA7E3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF24F960-5965-4EC0-A686-62F054DA7E3E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B448FCC4-CDCB-4A9A-AE16-F9119CCA71FB}
+	EndGlobalSection
+EndGlobal

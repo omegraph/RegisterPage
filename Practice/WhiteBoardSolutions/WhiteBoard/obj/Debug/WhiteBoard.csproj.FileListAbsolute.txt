@@ -1,0 +1,7 @@
+C:\ElevenFiftyProjects\Practice\WhiteBoardSolutions\WhiteBoard\bin\Debug\WhiteBoard.exe.config
+C:\ElevenFiftyProjects\Practice\WhiteBoardSolutions\WhiteBoard\bin\Debug\WhiteBoard.exe
+C:\ElevenFiftyProjects\Practice\WhiteBoardSolutions\WhiteBoard\bin\Debug\WhiteBoard.pdb
+C:\ElevenFiftyProjects\Practice\WhiteBoardSolutions\WhiteBoard\obj\Debug\WhiteBoard.csproj.AssemblyReference.cache
+C:\ElevenFiftyProjects\Practice\WhiteBoardSolutions\WhiteBoard\obj\Debug\WhiteBoard.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\Practice\WhiteBoardSolutions\WhiteBoard\obj\Debug\WhiteBoard.exe
+C:\ElevenFiftyProjects\Practice\WhiteBoardSolutions\WhiteBoard\obj\Debug\WhiteBoard.pdb

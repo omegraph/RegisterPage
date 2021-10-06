@@ -1,0 +1,6 @@
+C:\ElevenFiftyProjects\CSharpFundamentals\MorningChallengeW1D4\bin\Debug\MorningChallengeW1D4.exe.config
+C:\ElevenFiftyProjects\CSharpFundamentals\MorningChallengeW1D4\bin\Debug\MorningChallengeW1D4.exe
+C:\ElevenFiftyProjects\CSharpFundamentals\MorningChallengeW1D4\bin\Debug\MorningChallengeW1D4.pdb
+C:\ElevenFiftyProjects\CSharpFundamentals\MorningChallengeW1D4\obj\Debug\MorningChallengeW1D4.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\CSharpFundamentals\MorningChallengeW1D4\obj\Debug\MorningChallengeW1D4.exe
+C:\ElevenFiftyProjects\CSharpFundamentals\MorningChallengeW1D4\obj\Debug\MorningChallengeW1D4.pdb

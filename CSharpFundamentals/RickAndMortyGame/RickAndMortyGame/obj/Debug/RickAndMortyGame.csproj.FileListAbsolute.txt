@@ -1,0 +1,6 @@
+C:\ElevenFiftyProjects\CSharpFundamentals\RickAndMortyGame\RickAndMortyGame\bin\Debug\RickAndMortyGame.exe.config
+C:\ElevenFiftyProjects\CSharpFundamentals\RickAndMortyGame\RickAndMortyGame\bin\Debug\RickAndMortyGame.exe
+C:\ElevenFiftyProjects\CSharpFundamentals\RickAndMortyGame\RickAndMortyGame\bin\Debug\RickAndMortyGame.pdb
+C:\ElevenFiftyProjects\CSharpFundamentals\RickAndMortyGame\RickAndMortyGame\obj\Debug\RickAndMortyGame.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\CSharpFundamentals\RickAndMortyGame\RickAndMortyGame\obj\Debug\RickAndMortyGame.exe
+C:\ElevenFiftyProjects\CSharpFundamentals\RickAndMortyGame\RickAndMortyGame\obj\Debug\RickAndMortyGame.pdb

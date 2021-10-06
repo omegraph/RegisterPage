@@ -1,0 +1,16 @@
+C:\ElevenFiftyProjects\Samir72HourAssignment\72HourAssignment\72HourAssignment.Services\bin\Debug\72HourAssignment.Services.dll
+C:\ElevenFiftyProjects\Samir72HourAssignment\72HourAssignment\72HourAssignment.Services\bin\Debug\72HourAssignment.Services.pdb
+C:\ElevenFiftyProjects\Samir72HourAssignment\72HourAssignment\72HourAssignment.Services\obj\Debug\72HourAssignment.Services.csproj.AssemblyReference.cache
+C:\ElevenFiftyProjects\Samir72HourAssignment\72HourAssignment\72HourAssignment.Services\obj\Debug\72HourAssignment.Services.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\Samir72HourAssignment\72HourAssignment\72HourAssignment.Services\obj\Debug\72HourAssignment.Services.dll
+C:\ElevenFiftyProjects\Samir72HourAssignment\72HourAssignment\72HourAssignment.Services\obj\Debug\72HourAssignment.Services.pdb
+C:\ElevenFiftyProjects\Samir72HourAssignment\72HourAssignment\72HourAssignment.Services\bin\Debug\72HourAssignment.Services.dll.config
+C:\ElevenFiftyProjects\Samir72HourAssignment\72HourAssignment\72HourAssignment.Services\bin\Debug\EntityFramework.dll
+C:\ElevenFiftyProjects\Samir72HourAssignment\72HourAssignment\72HourAssignment.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\ElevenFiftyProjects\Samir72HourAssignment\72HourAssignment\72HourAssignment.Services\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\ElevenFiftyProjects\Samir72HourAssignment\72HourAssignment\72HourAssignment.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\ElevenFiftyProjects\Samir72HourAssignment\72HourAssignment\72HourAssignment.Services\bin\Debug\EntityFramework.xml
+C:\ElevenFiftyProjects\Samir72HourAssignment\72HourAssignment\72HourAssignment.Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\ElevenFiftyProjects\Samir72HourAssignment\72HourAssignment\72HourAssignment.Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\ElevenFiftyProjects\Samir72HourAssignment\72HourAssignment\72HourAssignment.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\ElevenFiftyProjects\Samir72HourAssignment\72HourAssignment\72HourAssignment.Services\obj\Debug\72HourAssignment.Services.csproj.CopyComplete

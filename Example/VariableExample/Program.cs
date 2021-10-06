@@ -9,26 +9,25 @@ namespace VariableExample
     //Class is a custom type
     class Program
     {
-        //Method where all executable code lives
         static void Main(string[] args)
         {
-            int a = 5;
-            int b = a + 4;
-            int c = 100;
-            bool isGreater = a > b;
-            Console.WriteLine(isGreater);
-            Console.ReadLine();
+            int num = Add(5, 6);
+            Console.WriteLine(num);
+        }
 
+        {
+        int num = Sub(5, 6);
+        Console.WriteLine(num);
+        }
 
-            bool isTrue = 7 < 6;
-            if (isTrue)
-            {
-                Console.WriteLine("Helloe World");
-            }
-            else
-                Console.WriteLine("Else Statment");
-            
+        public static int Add(int a, int b)
 
+        public static int Sub(int a, int b)
+
+    {
+        return a + b;
+
+        return a - b;
         }
     }
 }

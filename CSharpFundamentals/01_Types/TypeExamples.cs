@@ -77,7 +77,7 @@ namespace _01_Types
 
             //--Collections
             //--Arrays
-            string anotherExempleString = "Hello World";
+            string anotherExampleString = "Hello World";
             string[] stringArrays = { anotherExampleString, "Hello", "World", "!" };
 
 

@@ -1,0 +1,12 @@
+C:\ElevenFiftyProjects\CSharpFundamentals\PokeAPI\PokeAPI.UI\bin\Debug\PokeAPI.UI.exe.config
+C:\ElevenFiftyProjects\CSharpFundamentals\PokeAPI\PokeAPI.UI\bin\Debug\PokeAPI.UI.exe
+C:\ElevenFiftyProjects\CSharpFundamentals\PokeAPI\PokeAPI.UI\bin\Debug\PokeAPI.UI.pdb
+C:\ElevenFiftyProjects\CSharpFundamentals\PokeAPI\PokeAPI.UI\bin\Debug\Newtonsoft.Json.dll
+C:\ElevenFiftyProjects\CSharpFundamentals\PokeAPI\PokeAPI.UI\bin\Debug\System.Net.Http.Formatting.dll
+C:\ElevenFiftyProjects\CSharpFundamentals\PokeAPI\PokeAPI.UI\bin\Debug\Newtonsoft.Json.xml
+C:\ElevenFiftyProjects\CSharpFundamentals\PokeAPI\PokeAPI.UI\bin\Debug\System.Net.Http.Formatting.xml
+C:\ElevenFiftyProjects\CSharpFundamentals\PokeAPI\PokeAPI.UI\obj\Debug\PokeAPI.UI.csproj.AssemblyReference.cache
+C:\ElevenFiftyProjects\CSharpFundamentals\PokeAPI\PokeAPI.UI\obj\Debug\PokeAPI.UI.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\CSharpFundamentals\PokeAPI\PokeAPI.UI\obj\Debug\PokeAPI.UI.csproj.CopyComplete
+C:\ElevenFiftyProjects\CSharpFundamentals\PokeAPI\PokeAPI.UI\obj\Debug\PokeAPI.UI.exe
+C:\ElevenFiftyProjects\CSharpFundamentals\PokeAPI\PokeAPI.UI\obj\Debug\PokeAPI.UI.pdb

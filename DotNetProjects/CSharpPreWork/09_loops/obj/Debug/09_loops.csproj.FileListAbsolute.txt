@@ -4,4 +4,3 @@ C:\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\09_loops\bin\Debug\09_loops.
 C:\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\09_loops\obj\Debug\09_loops.csproj.CoreCompileInputs.cache
 C:\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\09_loops\obj\Debug\09_loops.exe
 C:\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\09_loops\obj\Debug\09_loops.pdb
-C:\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\09_loops\obj\Debug\09_loops.csprojAssemblyReference.cache

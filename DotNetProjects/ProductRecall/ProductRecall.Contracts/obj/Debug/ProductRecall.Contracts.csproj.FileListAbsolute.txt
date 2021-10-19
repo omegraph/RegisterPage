@@ -1,0 +1,16 @@
+C:\ElevenFiftyProjects\DotNetProjects\ProductRecall\ProductRecall.Contracts\bin\Debug\ProductRecall.Contracts.dll.config
+C:\ElevenFiftyProjects\DotNetProjects\ProductRecall\ProductRecall.Contracts\bin\Debug\ProductRecall.Contracts.dll
+C:\ElevenFiftyProjects\DotNetProjects\ProductRecall\ProductRecall.Contracts\bin\Debug\ProductRecall.Contracts.pdb
+C:\ElevenFiftyProjects\DotNetProjects\ProductRecall\ProductRecall.Contracts\bin\Debug\EntityFramework.dll
+C:\ElevenFiftyProjects\DotNetProjects\ProductRecall\ProductRecall.Contracts\bin\Debug\EntityFramework.SqlServer.dll
+C:\ElevenFiftyProjects\DotNetProjects\ProductRecall\ProductRecall.Contracts\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\ElevenFiftyProjects\DotNetProjects\ProductRecall\ProductRecall.Contracts\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\ElevenFiftyProjects\DotNetProjects\ProductRecall\ProductRecall.Contracts\bin\Debug\EntityFramework.xml
+C:\ElevenFiftyProjects\DotNetProjects\ProductRecall\ProductRecall.Contracts\bin\Debug\EntityFramework.SqlServer.xml
+C:\ElevenFiftyProjects\DotNetProjects\ProductRecall\ProductRecall.Contracts\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\ElevenFiftyProjects\DotNetProjects\ProductRecall\ProductRecall.Contracts\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\ElevenFiftyProjects\DotNetProjects\ProductRecall\ProductRecall.Contracts\obj\Debug\ProductRecall.Contracts.csproj.AssemblyReference.cache
+C:\ElevenFiftyProjects\DotNetProjects\ProductRecall\ProductRecall.Contracts\obj\Debug\ProductRecall.Contracts.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\DotNetProjects\ProductRecall\ProductRecall.Contracts\obj\Debug\ProductRecall.Contracts.csproj.CopyComplete
+C:\ElevenFiftyProjects\DotNetProjects\ProductRecall\ProductRecall.Contracts\obj\Debug\ProductRecall.Contracts.dll
+C:\ElevenFiftyProjects\DotNetProjects\ProductRecall\ProductRecall.Contracts\obj\Debug\ProductRecall.Contracts.pdb

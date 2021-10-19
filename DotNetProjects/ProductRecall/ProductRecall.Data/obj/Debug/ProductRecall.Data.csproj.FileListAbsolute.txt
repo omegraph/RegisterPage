@@ -1,0 +1,16 @@
+C:\ElevenFiftyProjects\DotNetProjects\ProductRecall\ProductRecall.Data\bin\Debug\ProductRecall.Data.dll.config
+C:\ElevenFiftyProjects\DotNetProjects\ProductRecall\ProductRecall.Data\bin\Debug\ProductRecall.Data.dll
+C:\ElevenFiftyProjects\DotNetProjects\ProductRecall\ProductRecall.Data\bin\Debug\ProductRecall.Data.pdb
+C:\ElevenFiftyProjects\DotNetProjects\ProductRecall\ProductRecall.Data\bin\Debug\EntityFramework.dll
+C:\ElevenFiftyProjects\DotNetProjects\ProductRecall\ProductRecall.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\ElevenFiftyProjects\DotNetProjects\ProductRecall\ProductRecall.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\ElevenFiftyProjects\DotNetProjects\ProductRecall\ProductRecall.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\ElevenFiftyProjects\DotNetProjects\ProductRecall\ProductRecall.Data\bin\Debug\EntityFramework.xml
+C:\ElevenFiftyProjects\DotNetProjects\ProductRecall\ProductRecall.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\ElevenFiftyProjects\DotNetProjects\ProductRecall\ProductRecall.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\ElevenFiftyProjects\DotNetProjects\ProductRecall\ProductRecall.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\ElevenFiftyProjects\DotNetProjects\ProductRecall\ProductRecall.Data\obj\Debug\ProductRecall.Data.csproj.AssemblyReference.cache
+C:\ElevenFiftyProjects\DotNetProjects\ProductRecall\ProductRecall.Data\obj\Debug\ProductRecall.Data.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\DotNetProjects\ProductRecall\ProductRecall.Data\obj\Debug\ProductRecall.Data.csproj.CopyComplete
+C:\ElevenFiftyProjects\DotNetProjects\ProductRecall\ProductRecall.Data\obj\Debug\ProductRecall.Data.dll
+C:\ElevenFiftyProjects\DotNetProjects\ProductRecall\ProductRecall.Data\obj\Debug\ProductRecall.Data.pdb

@@ -1,0 +1,55 @@
+﻿@model IEnumerable<ProductRecall.Models.RecallListItem>
+
+@{ ViewBag.Title = "Index"; }
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table table-bordered table-condensed table-hover table-striped">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.RecallId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ProductName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.RecallTitle)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.RecallDateStart)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.RecallDateEnd)
+        </th>
+        <th class="text-center">Actions</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+<tr>
+    <td>
+        @Html.DisplayFor(modelItem => item.RecallId)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.ProductName)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.RecallTitle)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.RecallDateStart)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.RecallDateEnd)
+    </td>
+    <td class="text-center">
+        @Html.ActionLink("Edit", "Edit", new { id = item.RecallId }) |
+        @Html.ActionLink("Details", "Details", new { id = item.RecallId }) |
+        @Html.ActionLink("Delete", "Delete", new { id = item.RecallId })
+    </td>
+</tr>}
+
+</table>

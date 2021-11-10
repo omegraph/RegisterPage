@@ -1,0 +1,143 @@
+﻿@model ProductRecall.Models.Dashboard
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<link href="~/Content/Dashboard.css" rel="stylesheet" />
+<br />
+<br />
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-md-6">
+            <div class="panel panel-primary">
+                <div class="panel-heading text-center">List of Today's Annoucements </div>
+                <div class="panel-body">
+                    <table class="table table-bordered table-hover table-condensed table-striped">
+                        <thead>
+                            <tr>
+                                <th>Recall Title</th>
+                                <th>Annoucement</th>
+                                <th>Announcement Date</th>
+                            </tr>
+                        </thead>
+                        <tbody id="todaysAnnoucements">
+                            @foreach (var item in Model.AnnouncementListItem)
+                            {
+                                <tr>
+                                    <td>@item.AnnouncementTitle</td>
+                                    <td>@item.RecallTitle</td>
+                                    <td>@item.AnnouncementDate</td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+
+        </div>
+        <div class="col-md-6">
+            <div class="panel panel-primary">
+                <div class="panel-heading text-center"> List of Products on Recall </div>
+                <div class="panel-body">
+                    <table class="table table-bordered table-hover table-condensed table-striped">
+                        <thead>
+                            <tr>
+                                <th>Recall Title</th>
+                                <th>Product</th>
+                                <th>Manufacturer</th>
+                                <th>Start Date</th>
+                                <th>End Date</th>
+                            </tr>
+                        </thead>
+                        <tbody id="productsOnRecalls">
+                            @foreach (var item in Model.RecallListItem)
+                            {
+                                <tr>
+                                    <td>@item.RecallTitle</td>
+                                    <td>@item.ProductName</td>
+                                    <td>@item.ManufacturerName</td>
+                                    <td>@item.RecallDateStart</td>
+                                    <td>@item.RecallDateEnd</td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<script>
+    $(function () {
+        // Get Today's Announcement
+        // Get Products Recall
+        //GetTodaysAnnouncements();
+        //GetProductsOnRecall();
+    });
+    function GetTodaysAnnouncements() {
+        $.ajax({
+            method: 'GET',
+            url: '/Dashboard/GetTodaysAnnouncements',
+            success: function (response) {
+                // debugger;
+
+                if (response != undefined) {
+                    //  $('#todaysAnnoucements').append('<tr></tr>');
+                    if (response.length > 0) {
+                        $(response).each(function () {
+                            //     debugger;
+
+                            $("#todaysAnnoucements").append($("<tr>")
+                                .append($("<td>").text(this.AnnouncementTitle)).append('</td>')
+                                .append($("<td>").text(this.RecallTitle)).append('</td>')
+                                .append($("<td>").text(this.AnnouncementDate)).append('</td></tr>')
+                            );
+                        });
+                    }
+                    else {
+                        $("#todaysAnnoucements").append($("<tr>").append($("<td>").text('No record found')).append('</td></tr>'));
+                    }
+
+                }
+            },
+            error: function (error) { alert('something went wrong. ' + error); }
+        });
+    }
+        function GetProductsOnRecall() {
+            $.ajax({
+                method: 'GET',
+                url: '/Dashboard/GetProductsOnRecall',
+                success: function (response) {
+                    // debugger;
+
+                    if (response != undefined) {
+                        // $('#productsOnRecalls').append('<tr></tr>');
+                        if (response.length > 0) {
+                            $(response).each(function () {
+                                //     debugger;
+
+                                $("#productsOnRecalls").append($("<tr>")
+                                    .append($("<td>").text(this.RecallTitle)).append('</td>')
+                                    .append($("<td>").text(this.ProductName)).append('</td>')
+                                    .append($("<td>").text(this.RecallDateStart)).append('</td></tr>')
+                                    .append($("<td>").text(this.RecallDateEnd)).append('</td></tr>')
+                                );
+                            });
+                        }
+                        else {
+                            $("#productsOnRecalls").append($("<tr>").append($("<td>").text('No record found')).append('</td></tr>'));
+                        }
+
+                    }
+                },
+                error: function (error) { alert('something went wrong. ' + error); }
+            });
+        }
+</script>
+

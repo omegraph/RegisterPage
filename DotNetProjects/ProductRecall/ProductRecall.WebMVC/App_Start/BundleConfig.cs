@@ -23,7 +23,7 @@ namespace ProductRecall.WebMVC
                       "~/Scripts/bootstrap.js"));
 
             bundles.Add(new StyleBundle("~/Content/css").Include(
-                      "~/Content/bootstrap.css",
+                      "~/Content/Bootswatch3.css",
                       "~/Content/site.css"));
         }
     }

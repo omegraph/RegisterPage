@@ -10,6 +10,8 @@ C:\ElevenFiftyProjects\DotNetProjects\ProductRecall\ProductRecall.Data\bin\Debug
 C:\ElevenFiftyProjects\DotNetProjects\ProductRecall\ProductRecall.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
 C:\ElevenFiftyProjects\DotNetProjects\ProductRecall\ProductRecall.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
 C:\ElevenFiftyProjects\DotNetProjects\ProductRecall\ProductRecall.Data\obj\Debug\ProductRecall.Data.csproj.AssemblyReference.cache
+C:\ElevenFiftyProjects\DotNetProjects\ProductRecall\ProductRecall.Data\obj\Debug\ProductRecall.Data.Migrations.InitialMigration.resources
+C:\ElevenFiftyProjects\DotNetProjects\ProductRecall\ProductRecall.Data\obj\Debug\ProductRecall.Data.csproj.GenerateResource.cache
 C:\ElevenFiftyProjects\DotNetProjects\ProductRecall\ProductRecall.Data\obj\Debug\ProductRecall.Data.csproj.CoreCompileInputs.cache
 C:\ElevenFiftyProjects\DotNetProjects\ProductRecall\ProductRecall.Data\obj\Debug\ProductRecall.Data.csproj.CopyComplete
 C:\ElevenFiftyProjects\DotNetProjects\ProductRecall\ProductRecall.Data\obj\Debug\ProductRecall.Data.dll

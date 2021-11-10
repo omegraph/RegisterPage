@@ -54,11 +54,53 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AnnouncementCreate.cs" />
+    <Compile Include="AnnouncementDetail.cs" />
+    <Compile Include="AnnouncementEdit.cs" />
+    <Compile Include="AnnouncementListItem.cs" />
+    <Compile Include="ManufacturerCreate.cs" />
+    <Compile Include="ManufacturerDetail.cs" />
+    <Compile Include="ManufacturerEdit.cs" />
+    <Compile Include="ManufacturerListItem.cs" />
+    <Compile Include="ManufacturerProducts.cs" />
+    <Compile Include="ProductCreate.cs" />
+    <Compile Include="ProductDetail.cs" />
+    <Compile Include="ProductEdit.cs" />
+    <Compile Include="ProductListItem.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RecallCreate.cs" />
+    <Compile Include="RecallDetail.cs" />
+    <Compile Include="RecallEdit.cs" />
+    <Compile Include="RecallListItem.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="fonts\glyphicons-halflings-regular.eot" />
+    <None Include="fonts\glyphicons-halflings-regular.ttf" />
+    <None Include="fonts\glyphicons-halflings-regular.woff" />
     <None Include="packages.config" />
+    <None Include="Scripts\jquery-3.6.0.min.map" />
+    <None Include="Scripts\jquery-3.6.0.slim.min.map" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ProductRecall.Data\ProductRecall.Data.csproj">
+      <Project>{50E63BD7-7FF1-4DCC-BF2D-B493CD07DBEC}</Project>
+      <Name>ProductRecall.Data</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Content\bootstrap-theme.css" />
+    <Content Include="Content\bootstrap-theme.min.css" />
+    <Content Include="Content\bootstrap.css" />
+    <Content Include="Content\bootstrap.min.css" />
+    <Content Include="fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="Scripts\bootstrap.js" />
+    <Content Include="Scripts\bootstrap.min.js" />
+    <Content Include="Scripts\jquery-3.6.0.intellisense.js" />
+    <Content Include="Scripts\jquery-3.6.0.js" />
+    <Content Include="Scripts\jquery-3.6.0.min.js" />
+    <Content Include="Scripts\jquery-3.6.0.slim.js" />
+    <Content Include="Scripts\jquery-3.6.0.slim.min.js" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

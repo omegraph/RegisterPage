@@ -1,0 +1,118 @@
+﻿@model ProductRecall.Models.RecallCreate
+
+@{
+    ViewBag.Title = "Create";
+}
+
+<h2>Create</h2>
+
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+        <h4>RecallCreate</h4>
+        <div>
+            <a href="/Recall/Index"> <span class="glyphicon  glyphicon-arrow-left btn btn-default"></span></a>
+        </div>
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Manufacturer, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DropDownList("ManufacturerId", ViewBag.Manufacturers as IEnumerable<SelectListItem>, "--  Select --", new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.Manufacturer, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.ProductId, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                <select id="ProductId" name="ProductId" class="form-control">
+                    <option>---  Select ---</option>
+                </select>
+                @Html.ValidationMessageFor(model => model.ProductId, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        @*<div class="form-group">
+                @Html.LabelFor(model => model.ProductName, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.ProductName, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.ProductName, "", new { @class = "text-danger" })
+                </div>
+            </div>*@
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.RecallTitle, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.RecallTitle, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.RecallTitle, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.RecallDateStart, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.RecallDateStart, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.RecallDateStart, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.RecallDateEnd, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.RecallDateEnd, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.RecallDateEnd, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <button type="submit" class="btn btn-primary"><span class="glyphicon glyphicon-check"></span>  Save</button>
+            </div>
+        </div>
+    </div>
+}
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+
+    <script>
+    $('#ManufacturerId').change(function () {
+        debugger;
+        var mId = $(this).val();
+
+        $.ajax({
+            type: 'GET',
+            url: '/Recall/GetProductsByManufacturereId',
+            data: { id: mId },
+            success: function (response) {
+                debugger;
+                if (response != undefined) {
+                    debugger;
+                    var result = response.Data;
+
+                    if (result.status == "Success") {
+                        $("#ProductId").html('');
+                        $("#ProductId").append($("<option>-- Select ---</option>"));
+
+                        $(result.data).each(function () {
+                            $("#ProductId").append($("<option></option>").val(this.ProductId).html(this.Name));
+                        });
+                    }
+                    else {
+                        alert("Something went wrong.");
+                    }
+                }
+            },
+            error: function (error) {
+                alert('There is something wrong.' + ", " + error);
+            }
+        });
+    });
+    </script>
+}

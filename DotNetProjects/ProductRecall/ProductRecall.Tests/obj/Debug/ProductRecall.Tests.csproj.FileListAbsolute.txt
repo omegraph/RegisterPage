@@ -9,6 +9,7 @@ C:\ElevenFiftyProjects\DotNetProjects\ProductRecall\ProductRecall.Tests\bin\Debu
 C:\ElevenFiftyProjects\DotNetProjects\ProductRecall\ProductRecall.Tests\bin\Debug\EntityFramework.SqlServer.xml
 C:\ElevenFiftyProjects\DotNetProjects\ProductRecall\ProductRecall.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
 C:\ElevenFiftyProjects\DotNetProjects\ProductRecall\ProductRecall.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\ElevenFiftyProjects\DotNetProjects\ProductRecall\ProductRecall.Tests\obj\Debug\ProductRecall.Tests.csproj.AssemblyReference.cache
 C:\ElevenFiftyProjects\DotNetProjects\ProductRecall\ProductRecall.Tests\obj\Debug\ProductRecall.Tests.csproj.CoreCompileInputs.cache
 C:\ElevenFiftyProjects\DotNetProjects\ProductRecall\ProductRecall.Tests\obj\Debug\ProductRecall.Tests.csproj.CopyComplete
 C:\ElevenFiftyProjects\DotNetProjects\ProductRecall\ProductRecall.Tests\obj\Debug\ProductRecall.Tests.dll

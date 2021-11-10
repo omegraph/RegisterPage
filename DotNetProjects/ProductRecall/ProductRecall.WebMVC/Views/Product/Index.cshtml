@@ -1,0 +1,50 @@
+﻿@model IEnumerable<ProductRecall.Models.ProductListItem>
+
+@{ ViewBag.Title = "Index"; }
+
+<h2>Index</h2>
+
+<p>
+    <a href="/Product/Create"> Create New</a>
+</p>
+<table class="table table-bordered table-condensed table-hover table-striped">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.ProductId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ProductName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Price)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Manufacturer)
+        </th>
+        <th class="text-center">Actions</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+<tr>
+    <td>
+        @Html.DisplayFor(modelItem => item.ProductId)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.ProductName)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Price)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Manufacturer)
+    </td>
+    <td class="text-center">
+        @Html.ActionLink("Edit", "Edit", new { id = item.ProductId }) |
+        @Html.ActionLink("Details ", "Details", new { id = item.ProductId }) |
+        @Html.ActionLink("Delete", "Delete", new { id = item.ProductId })
+    </td>
+</tr>
+}
+
+</table>

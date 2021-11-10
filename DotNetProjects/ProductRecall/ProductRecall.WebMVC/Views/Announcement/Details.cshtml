@@ -1,0 +1,40 @@
+﻿@model ProductRecall.Models.AnnouncementDetail
+
+@{ ViewBag.Title = "Details"; }
+
+<h2>Details</h2>
+
+<div>
+    <h4>AnnouncementDetail</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.RecallTitle)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.RecallTitle)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.AnnouncementTitle)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.AnnouncementTitle)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.AnnouncementDate)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.AnnouncementDate)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.AnnouncementId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
